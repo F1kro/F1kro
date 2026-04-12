@@ -9,21 +9,16 @@
 
 - 🌱 I’m currently learning **Android Pentesting, Fullstack JS Dev, Web Pentesting**
 
-- 👯 I’m looking to collaborate on **Pentesting Project**
-
-- 🤝 I’m looking for help with **My future 😂**
-
 - 👨‍💻 All of my projects are available at [masfiq.web.id](masfiq.web.id)
 
 - 📝 I regularly write articles on [masfiq.web.id/blogs](masfiq.web.id/blogs)
 
-- 💬 Ask me about **Burpsuite,Frida,NMAP,Wireshark,PHP,JS,Next JS**
+- 💬 Ask me about **Burpsuite,Frida,NMAP,Wireshark,PHP,JS,Next JS, Laravel**
 
 - 📫 How to reach me **fikronajiah123@gmail.com**
 
 - 📄 Know about my experiences [masfiq.web.id/cv](masfiq.web.id/cv)
 
-- ⚡ Fun fact **I think i'm stupid , thats why im still learning 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
