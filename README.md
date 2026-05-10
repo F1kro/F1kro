@@ -1,4 +1,6 @@
-![header](https://github.com/f1kro/f1kro/blob/main/header.svg)
+<div align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=f1kro&data=followers,repositories,stars,commits&theme=nautilus" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Web+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Student+%40+Mataram+University+%F0%9F%8E%93" alt="Typing SVG" />
