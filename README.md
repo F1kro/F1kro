@@ -24,8 +24,3 @@
 <a href="https://medium.com/@fiqro-najiah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fiqro-najiah" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=f1kro&show_icons=true&locale=en&layout=compact" alt="f1kro" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=f1kro&show_icons=true&locale=en" alt="f1kro" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=f1kro&" alt="f1kro" /></p>
