@@ -7,10 +7,6 @@
 </div>
 
 <br/>
-
-<h1 align="center">Hi 😁, I'm Fiqro Najiah</h1>
-<h3 align="center">Web Developer & Cybersecurity Enthusiast</h3>
-
 <br/>
 
 <div align="center">
